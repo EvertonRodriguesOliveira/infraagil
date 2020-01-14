@@ -4,7 +4,8 @@ Um pequeno exemplo de uma aplicação em python, com dois arquivos:
 
 - app.py
 - requeriments.txt
-- Paramahansa Yogananda
+- README.md
+
 O **negrito** e o *sublinhado*.
 
 ## Utilização 
